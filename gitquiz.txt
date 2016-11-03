@@ -1,0 +1,11 @@
+1. When you enter the class, make sure you have clone with your github clone command in terminal. So basically paste this command on terminal:git clone --config="http.proxy=http://pat2479:plus2543@192.168.2.1:8080" https://github.com/pat2479-cmis/pat2479-cmis-wd.git because you have already changed your username proxy and password.
+2. In order to  locate my repository file in this computer hit cd pat2479-cmis-wd then the results would be cmis@cmis-hs18 ~/pat2479-cmis-wd $ because it shows that you are at pat2479-cmis-wd (make sure it's always infront of everything you command)
+3. when cmis@cmis-hs18 ~/pat2479-cmis-wd $ is infront of your command, To create file.txt in your repository, after that, make sure to command gedit file.txt then hit enter.
+4. After hitting enter, the gedit text file will pop up, when that happened, you can type what your assigning to write.
+5. When you finish typing assignment that you're being ask to type hit ctrl+s inoder to save this text file.
+6. Close the text file.
+6. after that command git add file.txt then hit enter
+7. Then command git commit -m "type words"
+8. Next, command git push and then type your user name and password for github
+9. The text.file  should end up on Github.com  
+
