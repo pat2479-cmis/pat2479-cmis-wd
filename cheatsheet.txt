@@ -13,3 +13,6 @@ git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-t
 git add <file name>
 git commit -m "Commit Comment"
 git push
+Always have opening tags and closing tags (the words have to be inbetween)
+After you edit on html file, make sure to start the development server usingpython -m SimpleHTTPServer
+Ctrl+u is for view source code
