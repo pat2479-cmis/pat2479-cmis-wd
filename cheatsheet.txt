@@ -16,3 +16,20 @@ git push
 Always have opening tags and closing tags (the words have to be inbetween)
 After you edit on html file, make sure to start the development server usingpython -m SimpleHTTPServer
 Ctrl+u is for view source code
+View your website from our production server:
+*cmis@cmis-hs18 ~/pat2479-cmis-wd $ sftp pat2479@cmis-hsteacher
+*pat2479@cmis-hsteacher's password: 
+Connected to cmis-hsteacher.
+*sftp> pwd
+Remote working directory: /
+*sftp> ls
+public_html  
+*sftp> cd public_html/
+*sftp> pwd
+Remote working directory: /public_html
+*sftp> put index.html
+Uploading index.html to /public_html/index.html
+index.html                                    100%  372     0.4KB/s   00:00    
+sftp> 
+
+
