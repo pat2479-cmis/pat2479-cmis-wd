@@ -1,35 +1,88 @@
-html {
-	background-color: hotpink;
+All the properties I used, 1.Font-family 2.color 3.font-size 4.background-color 5.border 6.border-left-color 7.border-left-style 8.border-top-color 9.border-top-style 10.border-bottom-style 11.border-left-width 12.border-bottom-width 13.border-style 14.border 15.font-style 16.border-left-style 17.font-variant 18.font-weight 19.font-variant 20.border-right-color
+header {
+	font-family:arial;
+	color:red;
+	font-size:60px;
+	background-color:black;
+	border:solid 25px yellow;
+	border-left-color:#99FF33;
+	border-left-style:dashed;
+	border-top-color:#FF00FF;
+	border-top-style:inset;
+	border-bottom-color:orange;
+	border-bottom-style:outset;
 }
 h1 {
-	background-color: lightblue;	
-	color: plum;
-	text-align: center;
-	font-size: 48px;
-	border-style: solid;
-	font-family: serif;
+	font-family:courier new;
+	color:white;
+	font-size:50px;
+	font-style:italic;
+	background-color:blue;
+	border:dashed 10px black;
+	border-left-width:60px;
+	border-bottom-width:70px;
 }
-h2 { 
-	background-color: palevioletred;
-	font-size: 36px;
-	border-style: dotted;	
-	border-color: yellow;
-	border-width: 3px;
-	font-style: italic;
-	font-family: monospace
-	 
+nav {
+	font-family:Times New Roman;
+	color:yellow;
+	font-size:30px;
+	background-color:yellow;
+	border:inset 7px black;
+}
+main {
+	font-family:arial;
+	color:purple;
+	font-size:30px;
+	background-color:#FF00FF;
+	border:outset 50px red;
+	border-style:dotted solid double;
+	border-left-color:yellow;
+	border-right-color:green;
+	border-top-color:#99FF33;
+	border-bottom-style:dotted;
+	border-top-style:groove;
+	border-left-style:dashed;
+}
+h2 {
+	font-family:impact;
+	color:black;
+	font-size:40px;
+	font-style:oblique;
+	background-color:purple;
+	border:dotted 10px pink;
+	border-style:dotted solid double dashed;
+	border-left-color:red;
+	border-right-color:#00FFFF;
+	border-top-color:#ff0066;
+	border-bottom-color:#00ccff;
 }
 p {
-	margin: 2cm;	
-	font-family: monospace;
-	font-size: 24px;
-	color: white;
-	border-style: dashed;
-	border-color: blueviolet;
-	width: 300px;
-     	border: 25px solid green;
-    	padding: 25px;
-    	margin: 25px;
-	
+	font-family:times new roman;
+	color:orange;
+	font-size:30px;
+	font-weight:bolder;
+	background-color:yellow;
+	border:dashed 15px blue;
+	border-top-color:#00cc66;
+	border-bottom-style:solid;
+	border-bottom-color:#00ffff;
+	border-left-style:groove;
+	border-right-style:ridge;
+	border-top-width:50px;
+}
+footer { 
+	font-family:arial black;
+	color:#FF00FF;
+	font-size:25px;
+	background-color:blue;
+	border:double 30px #99FF33;
+	border-left-color:#66ffcc;
+	border-right-color:#FF00FF;
+	border-bottom-style:groove;
+	border-left-style:solid;
+	border-top-style:inset;
+	border-bottom-width:60px;
+	font-variant:small-caps;
+
 }
 
