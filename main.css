@@ -1,4 +1,9 @@
-All the properties I used, 1.Font-family 2.color 3.font-size 4.background-color 5.border 6.border-left-color 7.border-left-style 8.border-top-color 9.border-top-style 10.border-bottom-style 11.border-left-width 12.border-bottom-width 13.border-style 14.border 15.font-style 16.border-left-style 17.font-variant 18.font-weight 19.font-variant 20.border-right-color
+All the properties I used, 1.Font-family 2.color 3.font-size 4.background-color 5.border 6.border-left-color 7.border-left-style 8.border-top-color 9.border-top-style 10.border-bottom-style 11.border-left-width 12.border-bottom-width 13.border-style 14.border 15.font-style 16.border-left-style  18.font-weight 19.font-variant 20.border-right-color
+What I've learned
+html {
+	background-color:lightblue ;
+}
+	
 header {
 	font-family:arial;
 	color:red;
