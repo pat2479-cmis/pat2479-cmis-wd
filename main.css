@@ -1,5 +1,23 @@
-All the properties I used, 1.Font-family 2.color 3.font-size 4.background-color 5.border 6.border-left-color 7.border-left-style 8.border-top-color 9.border-top-style 10.border-bottom-style 11.border-left-width 12.border-bottom-width 13.border-style 14.border 15.font-style 16.border-left-style  18.font-weight 19.font-variant 20.border-right-color
+/*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font and text of each element.
+*Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.
+*Use at least 4 different units to set sizes of various aspects of your webpage.
+*Go learn something from 2 classmates; add a comment to your main.css file that describes what you learned.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into the top of your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+*Upload to the production server with sftp.
+*View your index.html in the production server*/
+All the properties I used, 1.Font-family 2.color 3.font-size 4.background-color 5.border 6.border-left-color 7.text-align 8.transform 9.direction 10.border-bottom-style 11.border-left-width 12.padding 13.border-style 14.border 15.font-style 16.min-width  18.text-shadow 19.font-variant 20.opacity
 What I've learned
+learn from classmate: Argik used border radius and margin for her CSS file and Warit used Max width and Min height on his CSS file 
 html {
 	background-color:lightblue ;
 }
@@ -26,6 +44,7 @@ h1 {
 	border:dashed 10px black;
 	border-left-width:60px;
 	border-bottom-width:70px;
+	text-align: center;
 }
 nav {
 	font-family:Times New Roman;
@@ -60,6 +79,9 @@ h2 {
 	border-right-color:#00FFFF;
 	border-top-color:#ff0066;
 	border-bottom-color:#00ccff;
+	opacity: 0.9;
+	min-width: 1px;
+	transform: rotate(-7deg); 
 }
 p {
 	font-family:times new roman;
@@ -74,6 +96,9 @@ p {
 	border-left-style:groove;
 	border-right-style:ridge;
 	border-top-width:50px;
+	padding: 10px;
+	text-shadow: 1px 1px #ff0000;
+	direction: rtl;
 }
 footer { 
 	font-family:arial black;
@@ -88,6 +113,8 @@ footer {
 	border-top-style:inset;
 	border-bottom-width:60px;
 	font-variant:small-caps;
-
 }
+
+
+
 
