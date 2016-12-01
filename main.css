@@ -15,10 +15,11 @@
 *Copy this list of requirements and paste it into the top of your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
 *Upload to the production server with sftp.
 *View your index.html in the production server*/
-All the properties I used, 1.Font-family 2.color 3.font-size 4.background-color 5.border 6.border-left-color 7.text-align 8.transform 9.direction 10.border-bottom-style 11.border-left-width 12.padding 13.border-style 14.border 15.font-style 16.min-width  18.text-shadow 19.font-variant 20.opacity
-What I've learned
-learn from classmate: Argik used border radius and margin for her CSS file and Warit used Max width and Min height on his CSS file 
-html {
+/*All the properties I used, 1.Font-family 2.color 3.font-size 4.background-color 5.border 6.border-left-color 7.text-align 8.transform 9.direction 10.border-bottom-style 11.border-left-width 12.padding 13.border-style 14.border 15.font-style 16.min-width  18.text-shadow 19.font-variant 20.opacity*/
+/*What I've learned
+learn from classmate: Argik used border radius and margin for her CSS file and Warit used Max width and Min height on his CSS file*/ 
+html
+{
 	background-color:lightblue ;
 }
 	
@@ -45,6 +46,7 @@ h1 {
 	border-left-width:60px;
 	border-bottom-width:70px;
 	text-align: center;
+	font-size: 20pc;
 }
 nav {
 	font-family:Times New Roman;
@@ -66,6 +68,7 @@ main {
 	border-bottom-style:dotted;
 	border-top-style:groove;
 	border-left-style:dashed;
+	font-size: 5.9vw; 
 }
 h2 {
 	font-family:impact;
@@ -79,6 +82,7 @@ h2 {
 	border-right-color:#00FFFF;
 	border-top-color:#ff0066;
 	border-bottom-color:#00ccff;
+	font-size: 2vmin;
 	opacity: 0.9;
 	min-width: 1px;
 	transform: rotate(-7deg); 
@@ -114,6 +118,7 @@ footer {
 	border-bottom-width:60px;
 	font-variant:small-caps;
 }
+
 
 
 
