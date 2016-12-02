@@ -1,0 +1,44 @@
+html{
+	background-color:red;
+}
+h1{
+	color:yellow;
+	font-weight:bold;
+	font-color: white;
+}
+h2{
+	font-weight:normal;
+	font-size:18px;
+	color:white;
+p{
+	text-decoration:underline;
+}
+
+	
+}
+header{
+	background-color:blue;
+}
+nav{
+	color:yellow;
+	text-decoration:line-through;	
+}
+div{
+    background-color:white;
+    border:white;
+    padding:10px;
+}
+p{
+	text-decoration:underline;
+}
+ol{
+	border:dotted black;
+}
+ul{
+	text-decoration:line-through;
+}
+footer{
+	color:white;
+	background-color:blue;
+}	
+
