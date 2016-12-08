@@ -85,7 +85,7 @@ h2 {
 	font-size: 2vmin;
 	opacity: 0.9;
 	min-width: 1px;
-	transform: rotate(-7deg); 
+	
 }
 p {
 	font-family:times new roman;
@@ -103,6 +103,9 @@ p {
 	padding: 10px;
 	text-shadow: 1px 1px #ff0000;
 	direction: rtl;
+}
+p1 {
+	font-size:15px;
 }
 footer { 
 	font-family:arial black;
