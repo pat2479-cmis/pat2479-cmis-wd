@@ -1,0 +1,83 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+h1 {
+	background-image: url("images/Neonpattern4.jpg");
+	border-width: 40px;
+	font-family:'Pacifico', cursive;
+	color: #DC143C;
+	font-size: 35px;
+}
+nav {
+	width: 300px;
+	border: solid;	
+	border-color: 	#DC143C;
+	border-width: 5px;
+        float:left; 
+	background-image: url("images/yay.jpg");
+}
+main {
+	margin-left: 320px;
+}
+article {
+	width: 1200px;
+	height: 600px;
+	border: inset;
+	background-image: url("images/yay2.jpg");
+	border-width: 11px;
+}
+h4 {
+	border: groove;
+	background-color: #FFDEAD;
+	border-width: 20px;
+	border-color: 	#191970;
+}
+p {
+	border: solid #FFDEAD 10px;
+	background: #E6E6E6;
+}
+body {
+	background-image:url("images/yay3.jpg");
+}
+img {
+	float: right;
+   	margin-bottom: 100px;
+   	margin-right: 140px;
+   	margin-left: 90px;
+	clear: both;
+}
+h3 {
+	border: solid white 12px;
+	color: #F32424;
+	height: 11em;
+	font-size: 43px;
+	background-image: url("images/yay4.jpg");
+	float: right;
+	clear: right;
+	font-family:'Lato', sans-serif;
+}
+ul{
+	width: 200px;
+	background: #EDDEDE;
+	border: dashed #E4DF08 10px;
+	font-family:'Bree Serif', serif;
+}
+h2 {
+	background-image: url("images/Neonpattern4.jpg");
+	color: #423939;
+	font-size: 29px;
+	width: 370px;
+	font-family:'Alegreya Sans', sans-serif;
+}
+h4 {
+	font-family:'Libre Baskerville', serif;
+}
+footer{
+	clear:both;
+	color: white;
+}
+
+
+
