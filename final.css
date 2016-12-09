@@ -3,8 +3,11 @@
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans);
 @import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+html{
+	background-image: url("http://fontalizer.com/uploads/posts/2015-12/1451225397_shutterstock_340594100.png") ;
+}
 h1 {
-	background-image: url("images/Neonpattern4.jpg");
+	background-image: url("http://previews.123rf.com/images/stephaniezieber/stephaniezieber1411/stephaniezieber141100001/33339205-Gold-sparkle-glitter-background-Stock-Photo.jpg");
 	border-width: 40px;
 	font-family:'Pacifico', cursive;
 	color: #DC143C;
@@ -16,7 +19,7 @@ nav {
 	border-color: 	#DC143C;
 	border-width: 5px;
         float:left; 
-	background-image: url("images/yay.jpg");
+	background-image: url("http://www.win10themes.com/wp-content/uploads/2016/04/Elegant-Wallpaper-Backgrounds.jpg");
 }
 main {
 	margin-left: 320px;
@@ -25,7 +28,7 @@ article {
 	width: 1200px;
 	height: 600px;
 	border: inset;
-	background-image: url("images/yay2.jpg");
+	background-image: url("http://www.win10themes.com/wp-content/uploads/2016/04/Elegant-Wallpaper-Backgrounds.jpg");
 	border-width: 11px;
 }
 h4 {
