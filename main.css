@@ -39,7 +39,7 @@ header {
 h1 {
 	font-family:courier new;
 	color:white;
-	font-size:50px;
+	font-size:25px;
 	font-style:italic;
 	background-color:blue;
 	border:dashed 10px black;
@@ -73,7 +73,7 @@ main {
 h2 {
 	font-family:impact;
 	color:black;
-	font-size:40px;
+	font-size:15px;
 	font-style:oblique;
 	background-color:purple;
 	border:dotted 10px pink;
@@ -87,7 +87,7 @@ h2 {
 	min-width: 1px;
 	
 }
-p {
+ main p {
 	font-family:times new roman;
 	color:orange;
 	font-size:30px;
@@ -122,6 +122,13 @@ footer {
 	font-variant:small-caps;
 }
 
+ol, ul {
+	color: red;
+	border: dashed;
+	width: 8cm;
+	margin: 0.5cm;
+	padding: 100px;
+}
 
 
 
