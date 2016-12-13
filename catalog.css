@@ -1,0 +1,92 @@
+
+html{
+	background-image: url("http://fontalizer.com/uploads/posts/2015-12/1451225397_shutterstock_340594100.png") ;
+}
+h1,h2 {
+	background-image: url("http://previews.123rf.com/images/stephaniezieber/stephaniezieber1411/stephaniezieber141100001/33339205-Gold-sparkle-glitter-background-Stock-Photo.jpg");
+	border-width: 40px;
+	font-family:'Pacifico', cursive;
+	color: #DC143C;
+	font-size: 35px;
+}
+h2 {
+	color:white;
+}
+nav {
+	width: 300px;
+	border: solid;	
+	border-color: #DC143C;
+	border-width: 2px;
+        float:left; 
+	background-image: url("http://www.win10themes.com/wp-content/uploads/2016/04/Elegant-Wallpaper-Backgrounds.jpg");
+}
+main p {
+	margin-left: 320px;
+}
+article {
+	width: 1200px;
+	height: 600px;
+	border: inset;
+	background-image: url("http://www.win10themes.com/wp-content/uploads/2016/04/Elegant-Wallpaper-Backgrounds.jpg");
+	border-width: 11px;
+}
+h4 {
+	border: groove;
+	background-color: #FFDEAD;
+	border-width: 20px;
+	border-color: #191970;
+}
+p {
+	border: solid #FFDEAD 10px;
+	background: #E6E6E6;
+}
+body {
+	background-image:url("images/yay3.jpg");
+}
+img {
+	float: right;
+   	margin-bottom: 100px;
+   	margin-right: 140px;
+   	margin-left: 90px;
+	clear: both;
+}
+h3 {
+	border: solid white 12px;
+	color: #F32424;
+	height: 11em;
+	font-size: 43px;
+	background-image: url("images/yay4.jpg");
+	float: right;
+	clear: right;
+	font-family:'Lato', sans-serif;
+}
+ul{
+	width: 200px;
+	background: #EDDEDE;
+	border: dashed #E4DF08 10px;
+	font-family:'Bree Serif', serif;
+}
+h2 {
+	background-image: url("images/Neonpattern4.jpg");
+	color: #800000;
+	font-size: 20px;
+	width: 370px;
+	font-family:'Alegreya Sans', sans-serif;
+}
+h4 {
+	font-family:'Libre Baskerville', serif;
+}
+footer{
+	clear:both;
+	color: white;
+}
+
+p {
+    padding: 50px 30px 50px 80px;
+}
+li{
+	width: 200px;
+	background: #EDDEDE;
+	border: dashed #E4DF08 10px;
+	font-family:'Bree Serif', serif;
+}
